@@ -1,1 +1,1 @@
-exports.UserService = require('./lib/UserService').UserService;
+exports.UserService = require('./lib/user-service').UserService;

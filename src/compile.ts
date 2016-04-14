@@ -1,2 +1,2 @@
 ///<reference path="../node_modules/angular2/typings/browser.d.ts"/>
-export * from './UserService';
+export * from './user-service';
