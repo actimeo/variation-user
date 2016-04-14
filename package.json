@@ -1,7 +1,10 @@
 {
   "dependencies": {
     "angular2": "2.0.0-beta.14",
-    "rxjs": "5.0.0-beta.2"
+    "rxjs": "5.0.0-beta.2",
+    "es6-shim": "^0.35.0",
+    "reflect-metadata": "0.1.2",
+    "zone.js": "^0.6.6"
   },
   "description": "ng2 service to store user information in the browser localstorage",
   "devDependencies": {
