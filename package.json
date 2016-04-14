@@ -1,8 +1,8 @@
 {
   "dependencies": {},
-  "description": "Store user information in localstorage",
+  "description": "ng2 service to store user information in the browser localstorage",
   "devDependencies": {},
-  "license": "AGPL-3.0"
+  "license": "AGPL-3.0",
   "maintainers": [
     {
       "email": "pmartin@actimeo.fr",
@@ -15,5 +15,5 @@
     "type": "git",
     "url": "git+https://github.com/actimeo/variation-user.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
