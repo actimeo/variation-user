@@ -1,19 +1,28 @@
 {
-  "dependencies": {},
-  "description": "ng2 service to store user information in the browser localstorage",
-  "devDependencies": {},
-  "license": "AGPL-3.0",
-  "maintainers": [
-    {
-      "email": "pmartin@actimeo.fr",
-      "name": "Philippe MARTIN"
-    }
-  ],
-  "name": "variation-user",
-  "peerDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/actimeo/variation-user.git"
-  },
-  "version": "0.0.3"
+    "dependencies": {
+	"angular2": "2.0.0-beta.14",
+	"rxjs": "5.0.0-beta.2"
+    },
+    "description": "ng2 service to store user information in the browser localstorage",
+    "devDependencies": {
+	"typescript": "^1.7.5"
+    },
+    "license": "AGPL-3.0",
+    "maintainers": [
+	{
+	    "email": "pmartin@actimeo.fr",
+	    "name": "Philippe MARTIN"
+	}
+    ],
+    "name": "variation-user",
+    "peerDependencies": {},
+    "repository": {
+	"type": "git",
+	"url": "git+https://github.com/actimeo/variation-user.git"
+    },
+    "scripts": {
+	"watch": "tsc -p src -w",
+	"build": "rm -rf lib && tsc -p src"
+    },
+    "version": "0.0.3"
 }
