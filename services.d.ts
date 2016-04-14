@@ -1,1 +1,1 @@
-exports * from './lib/UserService';
+export * from './lib/UserService';
