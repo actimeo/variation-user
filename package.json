@@ -1,0 +1,19 @@
+{
+  "dependencies": {},
+  "description": "Store user information in localstorage",
+  "devDependencies": {},
+  "license": "AGPL-3.0"
+  "maintainers": [
+    {
+      "email": "pmartin@actimeo.fr",
+      "name": "Philippe MARTIN"
+    }
+  ],
+  "name": "variation-user",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actimeo/variation-user.git"
+  },
+  "version": "0.0.1"
+}
