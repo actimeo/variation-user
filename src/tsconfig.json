@@ -11,6 +11,6 @@
 	"declaration": true
     },
     "files": [
-	"compile.ts"
+	"compile.ts", "user-service.spec.ts"
     ]
 }
