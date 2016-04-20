@@ -27,3 +27,9 @@ Then, import the UserService into your files:
 
     import {UserService} from 'variation-user/services';
 
+## Developers
+
+    npm install
+    typings install
+    npm test
+    npm run coverage
